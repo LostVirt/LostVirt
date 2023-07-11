@@ -15,21 +15,25 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/919245238114091088/994751253366177812/dogebread_awowogei.png" alt="LostVirt Profile" />
 </a>
 
-- 🏢 &nbsp; I'm working as a **Full-Stack .NET Developer**
-- 🌱 &nbsp; I’m currently expanding my knowledge in:
-  - &nbsp; C#
-  - &nbsp; Full-Stack Development
-  - &nbsp; Continuous integration and delivery
-  - &nbsp; Native Reverse Engineering
-  - &nbsp; Game Hacking
-- 🧠 &nbsp; Interests include:
-  - &nbsp; Full-Stack Development
-  - &nbsp; Reverse Engineering
-  - &nbsp; Automation for games and websites
-  - &nbsp; Writing libraries for automating games
-  - &nbsp; Game Hacking
-  - &nbsp; Cyber Security
-- 📫 &nbsp; Reach out to me on: **Discord** @ `Virtest#7081`
+I'm a **Full-Stack .NET Developer** with a passion for continuous learning and improving my skills.
+
+#### 👨‍💻 Professional experience:
+- Currently immersed in the world of **Full-Stack .NET** Development.
+
+#### 📚 Areas of learning and expansion:
+- Enhancing my full-stack development abilities.
+- Exploring continuous integration and delivery.
+- Diving into the world of native reverse engineering.
+- Expanding my knowledge of game hacking strategies and methodologies.
+
+#### 🧠 Interests:
+- Full-stack development, and discovering new tools and frameworks.
+- Unraveling the complexities of reverse engineering.
+- Developing automation libraries for games and websites.
+- Exploring the field of cybersecurity, with a special interest in game hacking.
+
+#### 📬 Get in touch:
+- Discord: `virtest`
 
 <br>
 
