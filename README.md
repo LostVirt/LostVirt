@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/LostVirt?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0B0B0B&color=FFD700" alt="GitHub followers" />
   </a>
   <a href="https://github.com/LostVirt">
-    <img src="https://hits.sh/github.com/LostVirt.svg?style=for-the-badge&label=Profile%20Views&color=FFD700&labelColor=0B0B0B" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=LostVirt&style=for-the-badge&color=B8860B&label=Profile+Views" alt="profile views" />
   </a>
 </p>
 
