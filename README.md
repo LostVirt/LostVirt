@@ -99,9 +99,9 @@ A high-performance pathfinding API for Old School RuneScape. Resolves optimal ro
 **Game automation & reverse engineering**
 
 <p>
-  <img src="https://img.shields.io/badge/Java%20ASM-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java ASM" />
+  <img src="https://img.shields.io/badge/Java%20ASM-007396?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjcuNjA0IDE4NC4yNTMiIAogICAgaGVpZ2h0PSIxOTYuNTM2IiB3aWR0aD0iMTc4Ljc3NyI+CiAgPGcgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik03LjA4NyA0Ny44MzR2MTcuNzE3bDYxLjM3MyAzNS40MzR2MTcuNzE3TDcuMDg3IDgzLjI2OHY1My4xNDhMODMuOCAxODAuNzFWOTIuMTI1TDcuMDg3IDQ3LjgzNXptMTUuMzQzIDYyLjAwOGw0Ni4wMyAyNi41NzR2MTcuNzE3TDIyLjQzIDEyNy41NnYtMTcuNzE3eiIgZmlsbD0iIzAwOGJlMCIvPgogICAgPHBhdGggZD0iTTcuMDg3IDQ3LjgzNWw3Ni43MTUgNDQuMjkxIDQ2LjAyOS0yNi41NzUtNjEuMzcyLTM1LjQzMyAxNS4zNDMtOC44NTggNjEuMzcyIDM1LjQzMyAxNS4zNDMtOC44NThMODMuODAyIDMuNTQzIDM3Ljc3MyAzMC4xMThsNjEuMzcyIDM1LjQzMy0xNS4zNDMgOC44NThMMjIuNDMgMzguOTc2eiIgZmlsbD0iIzAwOWVmZiIvPgogICAgPHBhdGggZD0iTTgzLjgwMiAxODAuNzA5bDE1LjM0My04Ljg1OXYtNzAuODY2bDE1LjM0My04Ljg1OHY3MC44NjZsMTUuMzQzLTguODU4VjY1LjU1TDgzLjgwMiA5Mi4xMjZ6TTE0NS4xNzQgMTQ1LjI3NmwxNS4zNDMtOC44NTlWNDcuODM1bC0xNS4zNDMgOC44NTh6IiBmaWxsPSIjMDA3N2MwIi8+CiAgICA8cGF0aCBkPSJNMTI5LjgzMSAxMzYuNDE3bDE1LjM0MyA4Ljg1OVY1Ni42OTNMODMuODAyIDIxLjI2IDY4LjQ2IDMwLjExOGw2MS4zNzIgMzUuNDMzeiIgZmlsbD0iI2UwNTQwMCIvPgogICAgPHBhdGggZD0iTTM3Ljc3MyAzMC4xMTh2MTcuNzE3bDQ2LjAzIDI2LjU3NCAxNS4zNDItOC44NTh6IiBmaWxsPSIjZTA1NDAwIi8+CiAgICA8cGF0aCBkPSJNNy4wODcgODMuMjY4bDE1LjM0My04Ljg1OSA0Ni4wMyAyNi41NzV2MTcuNzE3eiIgZmlsbD0iI2ZmNjAwMCIvPgogICAgPHBhdGggZD0iTTk5LjE0NSAxNTQuMTM0bDE1LjM0MyA4Ljg1OFY5Mi4xMjZsLTE1LjM0MyA4Ljg1OHoiIGZpbGw9IiNlMDU0MDAiLz4KICAgIDxwYXRoIGQ9Ik0yMi40MyAxMjcuNTZsMTUuMzQzLTguODYtMTUuMzQzLTguODU3eiIgZmlsbD0iI2MwNDgwMCIvPgogICAgPHBhdGggZD0iTTY4LjQ2IDE1NC4xMzR2LTE3LjcxN2wtMzAuNjg3LTE3LjcxNi0xNS4zNDMgOC44NTh6IiBmaWxsPSIjZmY2MDAwIi8+CiAgPC9nPgo8L3N2Zz4=" alt="Java ASM" />
   <img src="https://img.shields.io/badge/Cheat%20Engine-1F1F1F?style=for-the-badge&logo=dwavesystems&logoColor=white" alt="Cheat Engine" />
-  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Packet%20%2F%20Injection-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Packet / Injection" />
 </p>
 
@@ -110,6 +110,7 @@ A high-performance pathfinding API for Old School RuneScape. Resolves optimal ro
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
