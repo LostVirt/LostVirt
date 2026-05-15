@@ -101,7 +101,7 @@ A high-performance pathfinding API for Old School RuneScape. Resolves optimal ro
 <p>
   <img src="https://img.shields.io/badge/Java%20ASM-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java ASM" />
   <img src="https://img.shields.io/badge/Cheat%20Engine-1F1F1F?style=for-the-badge&logo=dwavesystems&logoColor=white" alt="Cheat Engine" />
-  <img src="https://img.shields.io/badge/Dreambot-2EA043?style=for-the-badge&logo=oracle&logoColor=white" alt="Dreambot" />
+  <img src="https://img.shields.io/badge/Ghidra-CC0000?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Packet%20%2F%20Injection-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Packet / Injection" />
 </p>
 
