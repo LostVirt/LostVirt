@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/LostVirt?tab=followers">
-    <img src="https://img.shields.io/github/followers/LostVirt?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0B0B0B&color=FFD700" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/LostVirt?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0B0B0B&color=blue" alt="GitHub followers" />
   </a>
   <a href="https://github.com/LostVirt">
     <img src="https://komarev.com/ghpvc/?username=LostVirt&style=for-the-badge&color=blue&label=Profile+Views" alt="profile views" />
@@ -44,7 +44,7 @@ A high-performance Old School RuneScape automation client with an extensive scri
 
 <p>
   <a href="https://eternalclient.net/">
-    <img src="https://img.shields.io/badge/Visit-eternalclient.net-FFD700?style=for-the-badge&logo=rocket&logoColor=0B0B0B&labelColor=0B0B0B" alt="Visit eternalclient.net" />
+    <img src="https://img.shields.io/badge/Visit-eternalclient.net-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0B0B0B" alt="Visit eternalclient.net" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ A high-performance pathfinding API for Old School RuneScape. Resolves optimal ro
 
 <p>
   <a href="https://holtwalker.com/">
-    <img src="https://img.shields.io/badge/Visit-holtwalker.com-FFD700?style=for-the-badge&logo=googlemaps&logoColor=0B0B0B&labelColor=0B0B0B" alt="Visit holtwalker.com" />
+    <img src="https://img.shields.io/badge/Visit-holtwalker.com-blue?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B0B0B" alt="Visit holtwalker.com" />
   </a>
 </p>
 
