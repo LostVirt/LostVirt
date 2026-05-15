@@ -1,186 +1,140 @@
 <!-- Profile design inspired by https://github.com/Bonfire and https://github.com/MacroPower -->
+
+<div align="center">
+
+# William &nbsp;·&nbsp; `LostVirt`
+
+**Full-stack developer & tinkerer &nbsp;·&nbsp; Sweden**
+
+<p>
+  <a href="https://github.com/LostVirt?tab=followers">
+    <img src="https://img.shields.io/github/followers/LostVirt?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0B0B0B&color=FFD700" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/LostVirt">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=eyeem&logoColor=white&label=Profile+Views&labelColor=0B0B0B&color=FFD700&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DLostVirt%26base%3D0%26format%3Djson&query=count" alt="profile views" />
+  </a>
+</p>
+
+</div>
+
+---
+
+I'm a developer who likes building things and digging into how technology works under the hood. My biggest projects right now are **EternalClient**, an automation client for OSRS, and **HoltWalker**, a pathfinding API covering every tile of Gielinor. My interests stretch well past the OSRS ecosystem though, across full-stack web, reverse engineering, low-level systems, and whatever I haven't gotten my hands on yet. Day job is full-stack .NET development.
+
+---
+
+<table>
+<tr>
+<td width="170" align="center" valign="middle">
+  <a href="https://eternalclient.net/">
+    <img src="./img/logo-eternalclient.png" width="140" alt="EternalClient" />
+  </a>
+</td>
+<td valign="middle">
+
+### [EternalClient](https://eternalclient.net/) &nbsp;·&nbsp; OSRS automation client
+
+A high-performance Old School RuneScape automation client with an extensive script API, unlimited instances, packet & injection interaction modes, low CPU/memory footprint, and remote monitoring.
+
+- Extensive script API for fast bot development
+- Unlimited concurrent instances per machine
+- Packet **and** injection interaction modes
+- Low CPU / low memory footprint
+- Remote monitoring & CLI launchable
+
+<p>
+  <a href="https://eternalclient.net/">
+    <img src="https://img.shields.io/badge/Visit-eternalclient.net-FFD700?style=for-the-badge&logo=rocket&logoColor=0B0B0B&labelColor=0B0B0B" alt="Visit eternalclient.net" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="170" align="center" valign="middle">
+  <a href="https://holtwalker.com/">
+    <img src="./img/logo-holtwalker.svg" width="140" alt="HoltWalker" />
+  </a>
+</td>
+<td valign="middle">
+
+### [HoltWalker](https://holtwalker.com/) &nbsp;·&nbsp; OSRS pathfinding API
+
+A high-performance pathfinding API for Old School RuneScape. Resolves optimal routes across every zone and level, honoring quest, skill, and item requirements as it walks.
+
+- Requirement-aware routing (quests, skills, items)
+- 12,000+ transport links — doors, teleports, fairy rings
+- Full coverage of 327M tiles across Gielinor
+- Bank locator with top-5 ranked results
+- Wilderness avoidance & batch REST queries
+
+<p>
+  <a href="https://holtwalker.com/">
+    <img src="https://img.shields.io/badge/Visit-holtwalker.com-FFD700?style=for-the-badge&logo=googlemaps&logoColor=0B0B0B&labelColor=0B0B0B" alt="Visit holtwalker.com" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/x86%20Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x86 Assembly" />
+</p>
+
+**Game automation & reverse engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/Java%20ASM-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java ASM" />
+  <img src="https://img.shields.io/badge/Cheat%20Engine-1F1F1F?style=for-the-badge&logo=dwavesystems&logoColor=white" alt="Cheat Engine" />
+  <img src="https://img.shields.io/badge/Dreambot-2EA043?style=for-the-badge&logo=oracle&logoColor=white" alt="Dreambot" />
+  <img src="https://img.shields.io/badge/Packet%20%2F%20Injection-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Packet / Injection" />
+</p>
+
+**Backend & infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/LostVirt">
-    <img src="https://komarev.com/ghpvc/?username=LostVirt&color=yellow" alt="page views" />
+    <img src="https://raw.githubusercontent.com/LostVirt/github-stats-transparent/output/generated/overview.svg" alt="LostVirt Overview" />
   </a>
-  <a href="https://github.com/LostVirt?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lostvirt?color=red&logo=github">
+  <a href="https://github.com/LostVirt">
+    <img src="https://raw.githubusercontent.com/LostVirt/github-stats-transparent/output/generated/languages.svg" alt="LostVirt Languages" />
   </a>
 </p>
-
-
-### Hello there! Welcome to my profile 👋
-
-<a href="https://github.com/LostVirt">
-<img align="right" src="https://cdn.discordapp.com/attachments/919245238114091088/994751253366177812/dogebread_awowogei.png" alt="LostVirt Profile" />
-</a>
-
-I'm a **Full-Stack .NET Developer** with a passion for continuous learning and improving my skills.
-
-#### 👨‍💻 Professional experience:
-- Currently immersed in the world of **Full-Stack .NET** Development.
-
-#### 📚 Areas of learning and expansion:
-- Enhancing my full-stack development abilities.
-- Exploring continuous integration and delivery.
-- Diving into the world of native reverse engineering.
-- Expanding my knowledge of game hacking strategies and methodologies.
-
-#### 🧠 Interests:
-- Full-stack development, and discovering new tools and frameworks.
-- Unraveling the complexities of reverse engineering.
-- Developing automation libraries for games and websites.
-- Exploring the field of cybersecurity, with a special interest in game hacking.
-
-#### 📬 Get in touch:
-- Discord: `virtest`
-
-<br>
-
-### <p align="center" id="lostvirt-stats">Github Stats</p>
 
 ---
 
 <p align="center">
-<a href="#lostvirt-stats">
-<img src="https://raw.githubusercontent.com/LostVirt/github-stats-transparent/output/generated/overview.svg" alt="LostVirt Overview" />
-</a>
-<a href="#lostvirt-stats">
-<img src="https://raw.githubusercontent.com/LostVirt/github-stats-transparent/output/generated/languages.svg" alt="LostVirt Languages" />
-</a>
+  <img src="https://img.shields.io/badge/Discord-virtest-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: virtest" />
 </p>
-
-<br>
-
-### <p align="center" id="lostvirt-tech">Professional Tech</p>
-
----
-
-<p align="center">Tools and languages that I currently work with.</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/net-core-logo.png" width="48" height="48" alt=".NET" />
-      </a>
-      <br>.NET&nbsp;(Core)
-    </td>
-    <td align="center"  width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/jquery-icon.svg" width="48" height="48" alt="Jquery" />
-      </a>
-      <br>Jquery
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-professional-tech">
-        <img src="./img/handlebars_logo.png" width="48" height="48" alt="Handlebars" />
-      </a>
-      <br>Handlebars
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-### <p align="center" id="lostvirt-hobby-tech">Hobby Tech</p>
-
----
-
-<p align="center">Other tools and languages I like to work with outside of work.</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/java-icon.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/asm-logo.svg" width="48" height="48" alt="Java ObjectWeb ASM" />
-      </a>
-      <br>Java&nbsp;ASM
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/rust-logo.svg" width="48" height="48" alt="Rust-Lang" />
-      </a>
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/logo_Cplusplus.svg" width="48" height="48" alt="Cpp" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/logo-asm.svg" width="48" height="48" alt="Assembly" />
-      </a>
-      <br>Assembly
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/celogo.png" width="48" height="48" alt="CheatEngine" />
-      </a>
-      <br>CheatEngine
-    </td>
-    <td align="center" width="96"> 
-      <a href="#lostvirt-hobby-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech">
-        <img src="./img/redis-icon.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#lostvirt-hobby-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-  </tr>
-</table>
