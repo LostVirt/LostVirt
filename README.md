@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/LostVirt?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0B0B0B&color=FFD700" alt="GitHub followers" />
   </a>
   <a href="https://github.com/LostVirt">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=eyeem&logoColor=white&label=Profile+Views&labelColor=0B0B0B&color=FFD700&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DLostVirt%26base%3D0%26format%3Djson&query=count" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=LostVirt&style=for-the-badge&color=FFD700&label=Profile+Views&labelColor=0B0B0B" alt="profile views" />
   </a>
 </p>
 
